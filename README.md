@@ -92,7 +92,3 @@ Based on the public **[UCI Online Retail dataset](https://archive.ics.uci.edu/da
 
 ---
 
-## Author
-
-**[Your Name]** — Data Analyst  
-[LinkedIn](#) · [Portfolio](#) · [Email](#)
