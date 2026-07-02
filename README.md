@@ -18,12 +18,14 @@ Leadership needed data-backed answers to four questions before committing budget
 ## Findings
 
 ### 1 · Monthly Revenue Trend (2011)
+![Monthly Revenue Trend](assets/chart1_monthly_revenue.png)
 - Revenue surges **Sep–Nov**, peaking at **£1.49M in November** driven by pre-holiday B2B and gift-season restocking.
 - Lowest point is **£521K in February** — consistent with post-holiday cool-down patterns.
 - The December dip (£635K) reflects a **partial month of data**, not a true demand loss — an important nuance for forecasting.
 ---
 
 ### 2 · Top 10 International Markets by Revenue
+![Top 10 Markets](assets/chart2_top_markets.png)
 - **Netherlands (£280K) and EIRE (£270K)** lead all non-UK markets in both revenue and quantity sold.
 - **Germany and France** form a strong second tier at ~£220K each.
 - Revenue and quantity curves diverge at Spain — markets below this point are high-volume but low-revenue, suggesting lower unit price products or smaller basket sizes.
@@ -31,6 +33,7 @@ Leadership needed data-backed answers to four questions before committing budget
 ---
 
 ### 3 · Top 10 Highest Revenue-Generating Customers
+![Top 10 Customers](assets/chart3_top_customers_fixed.png)
 - Customer **14646 (£280.2K)** and **18102 (£259.7K)** are in a tier of their own — both sit well above the group average of £154K.
 - The top 2 customers together contribute **~£540K**, while customers ranked 7–10 combined contribute only **~£349K** — a stark concentration of revenue risk.
 - Retention strategy should start at the top and work down.
@@ -38,6 +41,7 @@ Leadership needed data-backed answers to four questions before committing budget
 ---
 
 ### 4 · Global Product Demand Treemap (Excl. UK)
+![Global Demand Treemap](assets/chart4_demand_treemap.png)
 - **Netherlands (201K units)** is the dominant non-UK demand market, followed by **EIRE (147K)** and **Germany (119K)**.
 - The treemap reveals the next expansion wave — **Norway (19K), Portugal (16K), Finland** — markets with meaningful demand but under-resourced commercial coverage.
 - Visual encoding by area makes it instantly clear where to prioritise versus where to monitor.
@@ -89,6 +93,3 @@ Findings were translated into a stakeholder deck structured around the four lead
 
 ## Dataset
 Based on the public **[UCI Online Retail dataset](https://archive.ics.uci.edu/dataset/352/online+retail)**: transactional records for a UK-based online gift retailer, Dec 2010 – Dec 2011, covering invoices, products, quantities, unit prices, customers, and 38 countries.
-
----
-
